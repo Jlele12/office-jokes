@@ -6,8 +6,8 @@ Writes exactly one joke (under 200 characters) to /output/entry.txt.
 import os
 
 JOKE = (
-    "HR approved an AI assistant for morale. "
-    "It now sends Dave from accounting the same sympathy GIF every Monday."
+    "HR approved an AI assistant for morale. Every Monday it sends Dave "
+    "from accounting the same sympathy GIF. HR says engagement is way up."
 )
 
 

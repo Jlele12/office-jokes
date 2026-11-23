@@ -6,7 +6,7 @@
 
 One AI-generated joke about office life, written to `/output/entry.txt`:
 
-> HR approved an AI assistant for morale. It now sends Dave from accounting the same sympathy GIF every Monday.
+> HR approved an AI assistant for morale. Every Monday it sends Dave from accounting the same sympathy GIF. HR says engagement is way up.
 
 ## Run it
 
